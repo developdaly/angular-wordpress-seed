@@ -3,14 +3,14 @@
     "build": {
       "siteUrl": "http://localhost/angular-wordpress-seed/build/",
       "basePath": "/angular-wordpress-seed/build/",
-      "apiUrl": "http://localhost/wordpress/wp-json/"
+      "apiUrl": "https://developdaly.com/wp-json/wp/v2/"
     },
     "dist": {
-      "siteUrl": "http://www.example.com/",
+      "siteUrl": "https://developdaly.com/",
       "basePath": "/",
-      "apiUrl": "http://www.example.com/api/wp-json/"
+      "apiUrl": "https://developdaly.com/wp-json/wp/v2/"
     }
   },
-  "DEFAULT_TITLE" : "Angular Wordpress Seed",
+  "DEFAULT_TITLE" : "DLS Sample",
   "DEFAULT_DESCRIPTION" : "A basic blog app demonstrating the use of AngularJS with the Wordpress API"
 }
